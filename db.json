@@ -1,0 +1,31 @@
+{
+  "profesores": [
+    {
+      "nombre": "Adam",
+      "apellido": "Sandler",
+      "id": "2b2d"
+    },
+    {
+      "id": "976a",
+      "nombre": "Adam",
+      "apellido": "Bacon"
+    }
+  ],
+  "alumnos": [
+    {
+      "id": "3280",
+      "nombre": "Facundo",
+      "apellido": "Garcia"
+    },
+    {
+      "id": "3280",
+      "nombre": "Rosa",
+      "apellido": "Espinosa"
+    },
+    {
+      "id": "3280",
+      "nombre": "Ala",
+      "apellido": "Brito"
+    }
+  ]
+}
